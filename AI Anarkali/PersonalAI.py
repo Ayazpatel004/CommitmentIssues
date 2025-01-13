@@ -53,7 +53,7 @@ def wish():
         speak("Good afternoon mister patel")
     else:
         speak("Good Evening mister patel")
-    speak("This is Jarvis how can i help you?")
+    speak("This is Anarkali how can i help you?")
 
 #to send email
 def sendEmail(to,content):
@@ -147,7 +147,7 @@ if __name__ == "__main__":
             speak("shrikanth patil is your friend and he is huli, that is tiger of basavakalyan")
 
         elif "9" in query:
-            speak("jaheera bee hamare dadi ammi hain, toglor maen 9 acer khet liye uno")
+            speak("jaheera begum hamare dadi ammi hain, toglor maen 9 acer khet liye uno")
 
         elif "email" in query:
             try:
